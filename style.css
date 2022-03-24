@@ -25,9 +25,6 @@ main{
     margin: 0 1em;
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.1);
 }
-.adv-number{
-    letter-spacing: 4px;
-}
 
 .card img{
     width: 100%;
